@@ -34,8 +34,8 @@ h2,p,h4{
 
 
 .main {
-  width: 600px;
-  height:350px;
+  width: 1200px;
+  height:700px;
   box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
   border-radius: 5px;
   overflow: hidden;
